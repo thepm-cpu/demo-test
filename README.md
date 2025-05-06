@@ -1,3 +1,3 @@
 # demo
 
-rita ways
+rita ways!
